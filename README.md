@@ -15,8 +15,9 @@ The ALX Portfolio Project is a responsive and interactive portfolio website buil
 - **Interactive UI:** Smooth navigation and engaging animations.
 - **Dedicated Sections:**
   - About Me
+  - Education
   - Skills
-  - Projects
+  - Experience
   - Contact
 - **External Links:** Direct access to live projects and GitHub repositories.
 
@@ -39,7 +40,7 @@ Feedback is always welcome! If you have suggestions, ideas, or issues, feel free
 ## Links
 
 - **Live Site:** [https://iamo3.github.io/alx-portfolio-project/#home](https://iamo3.github.io/alx-portfolio-project/#home)
-- **Presentation:** [Google Slides](https://docs.google.com/presentation/d/19IxDTu9TGiMvmeuq1mXu8tcy5PTNUpLBV-_X-d4RRaM/edit?usp=sharing)
+- **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1634rDnL44tZ_OGwLBTLE-JW9tkGR9g1C3LihR2VBav0/edit#slide=id.p)
 - **GitHub Repository:** [https://github.com/iaMO3/alx-portfolio-project](https://github.com/iaMO3/alx-portfolio-project)
 
 ## License

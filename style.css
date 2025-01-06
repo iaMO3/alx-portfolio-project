@@ -560,7 +560,7 @@ section.start-animation .column h2 {
     padding: 1.5rem;
     border: .2rem solid #0743b1;
     background: rgba(255,255,255,.1);
-    border-radius: .5rem;
+    border-radius: 30px;
     margin-bottom: 2rem;
     position: relative;
 }

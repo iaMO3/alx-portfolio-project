@@ -29,7 +29,7 @@ This project is built using:
 - JavaScript
 - GitHub Pages (for hosting)
 
-## Live Demo
+## ⬇️Live Demo⬇️
 
 Check out the live portfolio website [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
 

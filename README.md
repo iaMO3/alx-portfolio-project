@@ -4,7 +4,7 @@ Welcome to the **ALX Portfolio Project** 👋! This repository hosts the codebas
 
 ## About the Project
 
-The ALX Portfolio Project is a responsive and interactive portfolio website built to:
+The ALX Portfolio Project is a responsive and interactive portfolio website built to 👇:
 - Highlight my professional background and expertise.
 - Showcase my web development projects.
 - Provide a platform for potential collaborators and employers to connect with me.

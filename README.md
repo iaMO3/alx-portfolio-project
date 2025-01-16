@@ -45,7 +45,7 @@ Feedback is always welcome! If you have suggestions, ideas, or issues, feel free
 
 ## License 
 
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) 📖file.
 
 ---
 

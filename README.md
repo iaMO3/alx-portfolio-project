@@ -2,14 +2,14 @@
 
 Welcome to the **ALX Portfolio Project** 👋! This repository hosts the codebase for my personal portfolio website, showcasing my skills, projects, and achievements in web development. The live site is hosted on GitHub Pages and can be accessed [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
 
-## About the Project👇
+## ⬇️About the Project⬇️
 
 The ALX Portfolio Project is a responsive and interactive portfolio website built to :
 - Highlight my professional background and expertise.
 - Showcase my web development projects.
 - Provide a platform for potential collaborators and employers to connect with me.
 
-## Features👇
+## ⬇️Features⬇️
 
 - **Responsive Design:** Optimized for seamless viewing on all devices.
 - **Interactive UI:** Smooth navigation and engaging animations.

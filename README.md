@@ -33,7 +33,7 @@ This project is built using:
 
 Check out the live portfolio website [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
 
-## Feedback and Contributions
+## ⬇️Feedback and Contributions⬇️
 
 Feedback is always welcome! If you have suggestions, ideas, or issues, feel free to open an issue in this repository.
 

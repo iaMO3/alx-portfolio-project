@@ -21,7 +21,7 @@ The ALX Portfolio Project is a responsive and interactive portfolio website buil
   - Contact
 - **External Links:** Direct access to live projects and GitHub repositories.
 
-## Technologies Used
+## ⬇️Technologies Used⬇️
 
 This project is built using:
 - HTML5

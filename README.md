@@ -1,6 +1,6 @@
 # ALX Portfolio Project
 
-Welcome to the **ALX Portfolio Project**! This repository hosts the codebase for my personal portfolio website, showcasing my skills, projects, and achievements in web development. The live site is hosted on GitHub Pages and can be accessed [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
+Welcome to the **ALX Portfolio Project** 👋! This repository hosts the codebase for my personal portfolio website, showcasing my skills, projects, and achievements in web development. The live site is hosted on GitHub Pages and can be accessed [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
 
 ## About the Project
 

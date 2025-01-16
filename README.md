@@ -31,7 +31,7 @@ This project is built using:
 
 ## Live Demo
 
-Check out the live portfolio website [here](https://iamo3.github.io/alx-portfolio-project/#home).
+Check out the live portfolio website [here](https://iamo3.github.io/alx-portfolio-project/#home)👈.
 
 ## Feedback and Contributions
 

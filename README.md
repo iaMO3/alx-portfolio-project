@@ -9,7 +9,7 @@ The ALX Portfolio Project is a responsive and interactive portfolio website buil
 - Showcase my web development projects.
 - Provide a platform for potential collaborators and employers to connect with me.
 
-## Features
+## Features👇
 
 - **Responsive Design:** Optimized for seamless viewing on all devices.
 - **Interactive UI:** Smooth navigation and engaging animations.
